@@ -1,0 +1,67 @@
+div {font-size: 14pt;
+
+	display: inline;
+	text-align: center;
+	font-family: Georgia;
+}
+
+#d3 {
+	display: inline-block;
+	position: relative;
+	top: -100px; 
+	text-align: left;
+	
+	
+}
+
+#t4 {
+	background-color: black;
+}
+
+
+table {
+display: inline-block;
+// border-collapse:collapse;
+//border: 1px solid grey;
+
+}
+#t2 {
+	border-bottom: 1px solid grey;
+}
+
+#t1 {
+	background-color: black;
+}
+
+
+#p1 {
+	font-size: 24px;
+	text-align: left;
+}
+
+#d1 {
+		margin-left: 3%;
+		margin-right: 3%;
+}
+
+#d2 {
+	 font-size: 20pt;
+}
+
+p {
+	font-size: 24px;
+	text-align: center;
+	font-family: Georgia;
+}
+
+#filters{
+		background-color:#E2E2E2;
+		width:200px;
+		float:left;
+		
+	}
+
+	#maket, #elements{
+		display: flex;
+	}	ц
+
